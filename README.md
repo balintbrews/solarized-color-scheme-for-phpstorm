@@ -6,3 +6,7 @@ This is the lighter version of [the beautiful Solarized color scheme](http://eth
 
 Under development. Currently tested with PHP language.
 
+# Installation
+
+    curl https://raw.github.com/balintk/solarized-color-scheme-for-phpstorm/master/solarized.xml -o ~/Library/Preferences/WebIde40/colors/solarized.xml
+
