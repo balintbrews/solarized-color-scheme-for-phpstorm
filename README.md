@@ -8,5 +8,7 @@ Under development. Currently tested with PHP language.
 
 # Installation
 
-    curl https://raw.github.com/balintk/solarized-color-scheme-for-phpstorm/master/solarized.xml -o ~/Library/Preferences/WebIde40/colors/solarized.xml
+Place `solarized.xml` into your PhpStorm preferences folder.
+
+E.g. if you are using OS X and the 5.0 version of PhpStorm, the path is: `~/Library/Preferences/WebIde50/colors`.
 
