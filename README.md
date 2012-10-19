@@ -1,6 +1,7 @@
 # Solarized Color Scheme for PhpStorm
 
-This is the lighter version of [the beautiful Solarized color scheme](http://ethanschoonover.com/solarized) made for [PhpStorm](http://www.jetbrains.com/phpstorm/) with carefully picked colors from the color palette that Solarized provides.
+A light color scheme for the popular PHP IDE, [PhpStorm](http://www.jetbrains.com/phpstorm/). Colors are carefully picked from the color palette of [the beautiful Solarized color scheme created by Ethan Schoonover](http://ethanschoonover.com/solarized).
+
 
 # Screenshots
 
@@ -20,5 +21,6 @@ Feedback is always more than welcome!
 Place `solarized.xml` into your PhpStorm preferences folder.
 
 E.g. if you are using OS X and the 5.0 version of PhpStorm, the path is: `~/Library/Preferences/WebIde50/colors`.
+
 
 
