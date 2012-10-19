@@ -16,11 +16,13 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="" />
     <option name="HTML_TAG_TREE_LEVEL5" value="" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
+    <option name="METHOD_SEPARATORS_COLOR" value="ebe2cb" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="ebe2cb" />
     <option name="SELECTED_INDENT_GUIDE" value="fdf6e3" />
     <option name="SELECTION_BACKGROUND" value="829090" />
     <option name="SELECTION_FOREGROUND" value="fcf5d9" />
+    <option name="TEARLINE_COLOR" value="ebe2cb" />
   </colors>
   <attributes>
     <option name="APACHE_CONFIG.ARG_LEXEM">
