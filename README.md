@@ -4,7 +4,8 @@ This is the lighter version of [the beautiful Solarized color scheme](http://eth
 
 # Status
 
-Under development. Currently tested with PHP language.
+Under active development. Currently tested with PHP and CSS languages.
+Feedback is always more than welcome!
 
 # Installation
 
